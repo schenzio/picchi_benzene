@@ -43,4 +43,4 @@ Per ogni picco, sono indicati:
 - **Area (macro)** – Macro area geografica (Nord, Centro, Sud e isole) della stazione.
 
 ### 📌[Notebook](https://github.com/schenzio/picchi_benzene/blob/main/Notebook_Something_in_the_air.ipynb)
-Il file *Notebook_Something_in_the_air.ipynb* contiene contesto istruzioni e codice python per riprodurre il lavoro, a partire scaricati dall'Environamental e pubblicati nella cartella [EEA_data](https://github.com/schenzio/picchi_benzene/tree/main/EEA_data)
+Il file *Notebook_Something_in_the_air.ipynb* contiene contesto istruzioni e codice python per riprodurre il lavoro, a partire scaricati dall'Environamental e pubblicati nella cartella [EEA_data](https://github.com/schenzio/picchi_benzene/tree/main/EEA_data).
